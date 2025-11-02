@@ -1,0 +1,2 @@
+0 poisonous
+1 edible
